@@ -12,6 +12,6 @@
 And working on KanbanBoard project
 
 
-📫 You can reach me at:
+#### 📫 You can reach me at:
 [![Gmail](https://img.shields.io/badge/e.yushkevich30@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.yushkevich30@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Cynzlic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cynzlic)
